@@ -23,4 +23,4 @@
 <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white" />
 
   
-  ![snake gif](https://github.com/oliveiraisa/oliveiraisa/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/oliveiraisa/oliveiraisa/blob/output/github-contribution-grid-snake.svg) 
