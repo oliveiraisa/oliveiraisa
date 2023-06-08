@@ -3,8 +3,8 @@
 💻 Estou no 2° ano do ensino médio em Desenvolvimento de Sistemas
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraisa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraisa&layout=compact&langs_count=16&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraisa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiraisa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ## 
