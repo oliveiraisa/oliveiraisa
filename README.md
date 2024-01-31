@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Isabella
 🙋🏻‍♀️ Sou aluna da Escola S - São José - SC <br>
-💻 Estou no 2° ano do ensino médio cursando na área de Desenvolvimento de Sistemas
+💻 Estou no 3° ano do ensino médio cursando na área de Desenvolvimento de Sistemas
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveiraisa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
