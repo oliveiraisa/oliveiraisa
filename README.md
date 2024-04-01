@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Isabella
-🙋🏻‍♀️ Sou aluna da Escola S - São José - SC <br>
+🙋🏻‍♀️ Sou aluna da Escola Sesi - São José - SC <br>
 💻 Estou no 3° ano do ensino médio cursando na área de Desenvolvimento de Sistemas
 
 <div>
